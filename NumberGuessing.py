@@ -10,7 +10,7 @@ if top_of_range <= 0:
 else:
  print('Please type a number next time.')
 quit()
-#the line below serves for
+#the line bellow serves for
 random_number = random.randint(0, top_of_range)
 guesses = 0
 
